@@ -1,16 +1,16 @@
 {
   "private": true,
-  "displayName": "Plugin Name",
-  "name": "homebridge-plugin-name",
+  "displayName": "Homebridge Example Services",
+  "name": "homebridge-example-services",
   "version": "1.0.0",
-  "description": "A short description about what your plugin does.",
+  "description": "Examples for each Homebridge service type.",
   "license": "Apache-2.0",
   "repository": {
     "type": "git",
-    "url": "git://github.com/USERNAME/GITHUB_PROJECT_NAME.git"
+    "url": "git://github.com/fjhorrillo/homebridge-example-services.git"
   },
   "bugs": {
-    "url": "https://github.com/USERNAME/GITHUB_PROJECT_NAME/issues"
+    "url": "https://github.com/fjhorrillo/homebridge-example-services/issues"
   },
   "engines": {
     "node": ">=12.13.0",
@@ -24,7 +24,8 @@
     "prepublishOnly": "npm run lint && npm run build"
   },
   "keywords": [
-    "homebridge-plugin"
+    "homebridge-plugin",
+    "Example"
   ],
   "dependencies": {},
   "devDependencies": {

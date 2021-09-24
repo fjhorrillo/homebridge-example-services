@@ -1,5 +1,5 @@
 {
-  "pluginAlias": "ExampleHomebridgePlugin",
+  "pluginAlias": "HomebridgeExampleServices",
   "pluginType": "platform",
   "singular": true,
   "schema": {
